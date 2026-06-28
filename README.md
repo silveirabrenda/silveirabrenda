@@ -13,11 +13,11 @@ Tenho como objetivo profissional seguir evoluindo em Garantia de Qualidade e Des
 
 <p align="left">
   <a href="https://linkedin.com/in/silveirabrenda"
-  title="Conecte-se comigo">
+  target="_blank" title="Conecte-se comigo">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=brendasstuche@gmail.com"
-  title="Me envie um e-mail">
+  target="_blank" title="Me envie um e-mail">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
