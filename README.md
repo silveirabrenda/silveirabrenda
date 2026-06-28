@@ -9,7 +9,22 @@ Atuo como estagiária de QA na Trindtech e também realizo trabalho voluntário 
 Tenho como objetivo profissional seguir evoluindo em Garantia de Qualidade e Desenvolvimento de Software.
 
 ---
-### Contato:
+### QA e Testes
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" title="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" title="Swagger" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="40" title="Cypress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="40" title="Playwright" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" width="40" title="K6" />
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg"
+  width="70"  style="vertical-align: -16px;"
+  title="Apache JMeter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg" width="40" title="Mocha & Chai" />
+
+---
+### Contato
 
 <p align="left">
   <a href="https://linkedin.com/in/silveirabrenda"
