@@ -39,15 +39,6 @@ Tenho como objetivo profissional seguir evoluindo em Garantia de Qualidade e Des
 <p>
 
 ---
-### Banco de Dados
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="50" title="MariaDB" />
-          
-</p>
-
----
 ### Ferramentas
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" />
@@ -60,6 +51,15 @@ Tenho como objetivo profissional seguir evoluindo em Garantia de Qualidade e Des
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="40" title="Trello" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" title="Figma" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="40" title="Grafana" />
+</p>
+
+---
+### Banco de Dados
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="50" title="MariaDB" />
+          
 </p>
 
 ---
