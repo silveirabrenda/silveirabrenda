@@ -2,16 +2,16 @@
 
 **`Software Quality Assurance`**
 
-Olá! Me chamo Brenda Silveira, sou natural do Rio de Janeiro e moro no Rio Grande do Sul. Atualmente, curso ensino superior de Sistemas para Internet no IFSul, graduação avaliada com conceito 5 pelo MEC. 
+Hello! My name is Brenda Silveira. I am from Rio de Janeiro and live in southern Brazil. Currently, I am pursuing a degree in Internet Systems at IFSul, a program rated the highest score by the Brazilian Ministry of Education.
 
-Atuo como estagiária de QA na Trindtech e também realizo trabalho voluntário em Projeto de Pesquisa e Extensão no IFSul, atuando na Garantia de Qualidade de jogos digitais educativos para crianças com Transtorno do Espectro Autista (TEA), contribuindo principalmente com a acessibilidade cognitiva e visual. 
+I work as a QA intern at Trindtech and also volunteer in a Research and Community Outreach Project at IFSul, focusing on Quality Assurance for educational digital games for children with Autism Spectrum Disorder (ASD), contributing mainly to cognitive and visual accessibility.
 
-Possuo inglês avançado e certificação AWS Certified Cloud Practitioner (CLF-C02).
+I have advanced English proficiency and the AWS Certified Cloud Practitioner (CLF-C02) certification.
 
-Tenho como objetivo profissional seguir evoluindo em Garantia de Qualidade e Desenvolvimento de Software.
+My professional goal is to continue growing in Quality Assurance and Software Development
 
 ---
-### QA e Testes
+### QA and Testing
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" title="Postman" />
@@ -26,7 +26,7 @@ Tenho como objetivo profissional seguir evoluindo em Garantia de Qualidade e Des
  <p> 
 
 ---
-### Desenvolvimento
+### Development
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
@@ -39,7 +39,7 @@ Tenho como objetivo profissional seguir evoluindo em Garantia de Qualidade e Des
 <p>
 
 ---
-### Ferramentas
+### Tools
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" title="GitHub" />
@@ -54,7 +54,7 @@ Tenho como objetivo profissional seguir evoluindo em Garantia de Qualidade e Des
 </p>
 
 ---
-### Banco de Dados
+### Databases
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
@@ -63,7 +63,7 @@ Tenho como objetivo profissional seguir evoluindo em Garantia de Qualidade e Des
 </p>
 
 ---
-### Contato
+### Contact
 
 <p>
   <a href="https://linkedin.com/in/silveirabrenda"
