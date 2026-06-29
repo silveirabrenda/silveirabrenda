@@ -6,6 +6,8 @@ Olá! Me chamo Brenda Silveira, sou natural do Rio de Janeiro e moro no Rio Gran
 
 Atuo como estagiária de QA na Trindtech e também realizo trabalho voluntário em Projeto de Pesquisa e Extensão no IFSul, atuando na Garantia de Qualidade de jogos digitais educativos para crianças com Transtorno do Espectro Autista (TEA), contribuindo principalmente com a acessibilidade cognitiva e visual. 
 
+Possuo inglês avançado e certificação AWS Certified Cloud Practitioner (CLF-C02).
+
 Tenho como objetivo profissional seguir evoluindo em Garantia de Qualidade e Desenvolvimento de Software.
 
 ---
