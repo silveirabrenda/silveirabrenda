@@ -2,7 +2,7 @@
 
 **`Software Quality Assurance`**
 
-Olá! Me chamo Brenda Silveira, sou natural do Rio de Janeiro e moro no Rio Grande do Sul. Atualmente, curso ensino superior de Sistemas para Internet no IFSUL, graduação avaliada com conceito 5 pelo MEC. 
+Olá! Me chamo Brenda Silveira, sou natural do Rio de Janeiro e moro no Rio Grande do Sul. Atualmente, curso ensino superior de Sistemas para Internet no IFSul, graduação avaliada com conceito 5 pelo MEC. 
 
 Atuo como estagiária de QA na Trindtech e também realizo trabalho voluntário em Projeto de Pesquisa e Extensão no IFSul, atuando na Garantia de Qualidade de jogos digitais educativos para crianças com Transtorno do Espectro Autista (TEA), contribuindo principalmente com a acessibilidade cognitiva e visual. 
 
@@ -21,6 +21,7 @@ Tenho como objetivo profissional seguir evoluindo em Garantia de Qualidade e Des
   width="70"  style="vertical-align: -16px;"
   title="Apache JMeter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg" width="40" title="Mocha & Chai" />
+ <p> 
 
 ---
 ### Desenvolvimento
@@ -33,11 +34,21 @@ Tenho como objetivo profissional seguir evoluindo em Garantia de Qualidade e Des
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" title="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35" title="Linguagem C"/>
+<p>
+
+---
+### Banco de Dados
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="50" title="MariaDB" />
           
+</p>
+
 ---
 ### Contato
 
-<p align="left">
+<p>
   <a href="https://linkedin.com/in/silveirabrenda"
   target="_blank" title="Conecte-se comigo">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
