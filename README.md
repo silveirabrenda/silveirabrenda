@@ -10,6 +10,19 @@ I have advanced English proficiency and the AWS Certified Cloud Practitioner (CL
 
 My professional goal is to continue growing in Quality Assurance and Software Development
 
+<details>
+  <summary> 🌐 Leia em português</summary>
+
+Olá! Me chamo Brenda Silveira, sou natural do Rio de Janeiro e moro no Rio Grande do Sul. Atualmente, curso ensino superior de Sistemas para Internet no IFSul, graduação avaliada com conceito 5 pelo MEC. 
+
+Atuo como estagiária de QA na Trindtech e também realizo trabalho voluntário em Projeto de Pesquisa e Extensão no IFSul, atuando na Garantia de Qualidade de jogos digitais educativos para crianças com Transtorno do Espectro Autista (TEA), contribuindo principalmente com a acessibilidade cognitiva e visual. 
+
+Possuo inglês avançado e certificação AWS Certified Cloud Practitioner (CLF-C02).
+
+Tenho como objetivo profissional seguir evoluindo em Garantia de Qualidade e Desenvolvimento de Software.
+
+</details>
+
 ---
 ### QA and Testing
 
